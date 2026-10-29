@@ -1,0 +1,528 @@
+Recon Results from https://intelx.io/?id=0bb64bdf-3ee1-4e70-8cb1-6aebc4d3f596
+
+ queryParams in https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js (55)
+?module.exports=
+?n=
+?0=
+&0=
+&1=
+?g.delimiter=
+?T=
+&-1=
+&obj.options.tableOverflow=
+&obj.options.parseFormulas=
+&obj.options.secureFormulas=
+&img.tagName=
+&breakControl=
+&obj.options.autoIncrement=
+&previousStatus=
+&valueB=
+&obj.options.autoCasting=
+&hash=
+&nc=
+&mouseButton=
+&jexcel.current.options.allowRenameColumn=
+&jexcel.isMouseAction=
+&jexcel.current.options.columnSorting=
+&jexcel.current.options.editable=
+&oReq.status=
+&j=
+&imaginary=
+&y=
+&d=
+&number_chosen=
+&currentDay=
+&currentMonth=
+&date.length=
+?q=
+&obj.options.autocomplete=
+?v=
+&obj.options.allowImageResize=
+&obj.options.ignore=
+&type=
+&input=
+&obj.options.allowCreate=
+&n=
+
+ fullUrls in https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js (1)
+https://www.youtube.com/watch?v=
+
+ apiEndpoints in https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js (162)
+/blob
+/i.test
+/javascript
+/dist/jsuites.css
+/MM/YYYY
+/quantityPerPage
+/100
+/676
+/.exec
+/power
+/86400000
+/946080000
+/2592000
+/86400
+/3600
+/resultIndexes.length
+/sec
+/statute
+/.test
+/den
+/Math.log
+/cost
+/life
+/Math.LN10
+/fraction
+/Math.LN2
+/periods
+/rate
+/Math.pow
+/365
+/irrResultDeriv
+/periods-1
+/term
+/present
+/360
+/number
+/significance
+/Math.tan
+/Math.sin
+/Math.PI
+/multiple
+/divisor
+/denominator
+/180
+/Math.cos
+/count
+/average_count
+/FACT
+/SQRT2PI
+/beta
+/Math.sqrt
+/div
+/json
+/x-www-form-urlencoded
+/table
+/1000/60
+/1440
+/10080
+/43200
+/525600
+//www.youtube.com/watch
+/editorAction.w
+/html
+/plain
+/media
+/charsize
+/img.width
+/img.height
+/jpeg
+/rect.width
+
+ jsVariables in https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js (11)
+var f="undefined"
+var r="boolean"
+var s="undefined"
+var res='#ERROR'
+var html='<div class="
+var html='<td colspan="
+var url='https://www.youtube.com/watch?v='
+var folder='/media'
+var hex_tab="0123456789abcdef"
+var label='<i class="
+
+ exposedSecrets in https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js (2)
+token=referencesToUpdate
+
+ suspiciousEval in https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js (10)
+eval('typeof('+tokens[i]+')
+eval(evalstring+expression.substr(1)
+eval(database[k][l]+criteria[p])
+eval(range[i]+criteria)
+eval(condition)
+eval('"'+range[i]+'"'+criteria)
+eval(range[j]+criteria)
+eval('"'+range[j]+'"'+criteria)
+
+ queryParams in https://cdn.intelx.io/js/common.min.js (1)
+&event.target=
+
+ apiEndpoints in https://cdn.intelx.io/js/common.min.js (9)
+/2-w/2
+/2-h/2
+/div
+/2-x-arrow.offsetWidth/2
+/2-y-arrow.offsetHeight/2
+/x-www-form-urlencoded
+
+ queryParams in https://cdn.intelx.io/js/search.min.js (113)
+&j=
+&limit=
+?id=
+&l=
+&k=
+&bucket=
+?type=
+&systemid=
+&storageid=
+&license=
+&e.keyCode=
+?f=
+?file=
+&statistics=
+&previewlines=
+&media=
+&from=
+&to=
+&reset=
+?s=
+?sid=
+&f=
+&c=
+&m=
+&b=
+&type=
+&document.activeElement=
+&menu.tagName=
+&df=
+&dt=
+&so=
+&pb=
+&g=
+&this.txt=
+
+ fullUrls in https://cdn.intelx.io/js/search.min.js (3)
+https://intelx.io/?id=
+https://blog.intelx.io/2020/07/05/why-we-are-going-to-block-tor-ips/
+http://www.w3.org/2000/svg
+
+ apiEndpoints in https://cdn.intelx.io/js/search.min.js (124)
+/pxPerline
+/span
+/div
+/size
+/100
+/search/result
+/search
+/search/export
+/selector/list/human
+/selector/list/export
+/.signup
+/order
+/signup
+/read
+/abuse
+/view
+/libraries/PDFJS/web/viewer.html
+/libraries/jexcel/jexcel.min.css
+/libraries/jexcel/jexcel.min.js
+/libraries/jexcel/jszip_xlsx.min.js
+/mp4
+/webm
+/libraries/pptx/pptx.min.css
+/libraries/pptx/pptx.min.js
+/e.total
+/pre
+/contentLength
+//intelx.io
+/preview
+/plain
+//blog.intelx.io/2020/07/05/why-we-are-going-to-block-tor-ips
+/search/statistic
+//www.w3.org/2000/svg
+/print
+
+ jsVariables in https://cdn.intelx.io/js/search.min.js (6)
+var videoMIME='video/mp4'
+var msg='No results found.'
+var msg='No more results found.'
+var imgSrc='<img '
+var lineHeight='height: '
+var transform='<div class="
+
+ queryParams in https://cdn.intelx.io/js/libraries/d3.min.js (88)
+?r=
+?i=
+&n.documentElement.namespaceURI=
+?n.length=
+&u.name=
+&i.name=
+?t=
+&o=
+?e=
+&0=
+&1=
+?t._next=
+?Xe._next=
+&u=
+&a=
+&c=
+&i=
+?m=
+?N.selection=
+?s=
+?h=
+?_=
+&f=
+?c=
+?f=
+&null=
+?v=
+?g=
+&e=
+?p=
+?r.next=
+&d=
+?Lu=
+&s=
+&a.ratio=
+?1=
+?o=
+&3=
+?i.L=
+?t.left=
+&2=
+&h=
+?a=
+&n=
+?d=
+&e.name=
+
+ fullUrls in https://cdn.intelx.io/js/libraries/d3.min.js (7)
+https://d3js.org
+http://www.w3.org/1999/xhtml
+http://www.w3.org/2000/svg
+http://www.w3.org/1999/xlink
+http://www.w3.org/XML/1998/namespace
+http://www.w3.org/2000/xmlns/
+
+ apiEndpoints in https://cdn.intelx.io/js/libraries/d3.min.js (91)
+//d3js.org
+/Math.max
+/Math.LN10
+/Math.pow
+/Math.LN2
+//www.w3.org/1999/xhtml
+//www.w3.org/2000/svg
+//www.w3.org/1999/xlink
+//www.w3.org/XML/1998/namespace
+//www.w3.org/2000/xmlns
+/100
+/255
+/180
+/Math.PI
+/2.4
+/12.92
+/1.055
+/116
+/500
+/200
+/360
+/e.duration
+/jr/jr
+/Math.min
+/xml
+/html
+/svg
+/.test
+/b-.5
+/f-r
+/t.value
+/i.ticks
+/1e3
+/36e5
+/864e5
+/.exec
+/x-1
+/Math.sin
+/Math.sqrt
+/e-n
+/o-1/f
+/this.k
+/o-t
+/o-n
+/300
+/t.length
+/i.y
+/2-cy/2
+/c.k
+/f.k
+
+ jsVariables in https://cdn.intelx.io/js/libraries/d3.min.js (7)
+var G="http://www.w3.org/1999/xhtml"
+var n="function"
+var e="function"
+var Kt="\\s*([+-]?\\d+)\\s*"
+var e="attr."
+var r="transform"
+var r="style."
+
+ apiEndpoints in https://cdn.intelx.io/js/charts.js (5)
+/total
+/div
+
+ jsVariables in https://cdn.intelx.io/js/charts.js (1)
+var weekday = "sunday"
+
+ queryParams (5)
+?id=
+?s=
+?type=
+
+ fullUrls (40)
+https://cdn.intelx.io/favicon/apple-touch-icon.png
+https://cdn.intelx.io/favicon/favicon-32x32.png
+https://cdn.intelx.io/favicon/favicon-16x16.png
+https://cdn.intelx.io/css/boot-all.min.css
+https://cdn.intelx.io/css/common1.css
+https://cdn.intelx.io/css/search.css
+https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.css
+https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js
+https://cdn.intelx.io/img/IntelligenceX.svg
+https://blog.intelx.io
+https://help.intelx.io
+https://cdn.intelx.io/img/loading.gif
+https://help.intelx.io/get-started/selector/
+https://phonebook.cz
+https://help.intelx.io/faq/error/#-restricted-search-term
+https://intelx.io/?id=0bb64bdf-3ee1-4e70-8cb1-6aebc4d3f596
+https://intelx.io/?id=aaf94f58-820c-4497-bc33-5082784f1df4
+https://free.intelx.io/file/read?type=1&amp;systemid=0bb64bdf-3ee1-4e70-8cb1-6aebc4d3f596&amp;k=d9f34863-a90b-479f-abdc-53eccdebe183&amp;bucket=leaks.private.general
+https://twitter.com/Info_IntelX
+https://t.me/intelxio
+https://www.linkedin.com/company/intelxio
+https://free.intelx.io/
+https://cdn.intelx.io/
+https://cdn.intelx.io/js/common.min.js
+https://cdn.intelx.io/js/search.min.js
+https://cdn.intelx.io/js/daterange.js
+https://cdn.intelx.io/js/libraries/d3.min.js
+https://cdn.intelx.io/js/charts.js
+https://www.statcounter.com/counter/counter.js
+
+ apiEndpoints (830)
+/html
+//cdn.intelx.io/favicon/apple-touch-icon.png
+/png
+//cdn.intelx.io/favicon/favicon-32x32.png
+//cdn.intelx.io/favicon/favicon-16x16.png
+/title
+//cdn.intelx.io/css/boot-all.min.css
+//cdn.intelx.io/css/common1.css
+//cdn.intelx.io/css/search.css
+//cdn.intelx.io/js/libraries/jexcel/jexcel.min.css
+//cdn.intelx.io/js/libraries/jexcel/jexcel.min.js
+/script
+/head
+//cdn.intelx.io/img/IntelligenceX.svg
+/about
+/product
+//blog.intelx.io
+/tools
+/academia
+//help.intelx.io
+/account
+/span
+/logout
+/div
+/nav
+//cdn.intelx.io/img/loading.gif
+/button
+/tbody
+/table
+/label
+/option
+/select
+/form
+/section
+//help.intelx.io/get-started/selector
+//phonebook.cz
+//help.intelx.io/faq/error
+/path
+/text
+/svg
+/rect
+//intelx.io
+/pre
+/swvl_users.json
+/main
+/order
+/colgroup
+/thead
+/textarea
+//free.intelx.io/file/read
+/abuse
+/privacy
+/day
+/signup
+/contact
+//twitter.com/Info_IntelX
+//t.me/intelxio
+//www.linkedin.com/company/intelxio
+/terms
+/footer
+//free.intelx.io
+//cdn.intelx.io
+//cdn.intelx.io/js/common.min.js
+//cdn.intelx.io/js/search.min.js
+//cdn.intelx.io/js/daterange.js
+//cdn.intelx.io/js/libraries/d3.min.js
+//cdn.intelx.io/js/charts.js
+//www.statcounter.com/counter/counter.js
+//c.statcounter.com/11735356/0/37e3484e/1
+/noscript
+/body
+
+ jsVariables (10)
+const API_URL = 'https://free.intelx.io/'
+const API_KEY = 'd9f34863-a90b-479f-abdc-53eccdebe183'
+const API_LEVEL = 'registeredfree'
+const CDN_URL = 'https://cdn.intelx.io/'
+var sc_security="37e3484e"
+
+ exposedSecrets (1)
+IRCDAMN@GMAIL.COM
+
+ sensitiveCredKeys (2)
+API_KEY = 'd9f34863-a90b-479f-abdc-53eccdebe183'
+
+  In-Scope JS Files Scanned (6)
+âœ” /js/libraries/jexcel/jexcel.min.js
+âœ” /js/common.min.js
+âœ” /js/search.min.js
+âœ” /js/daterange.js
+âœ” /js/libraries/d3.min.js
+âœ” /js/charts.js
+
+  In-Scope URLs (intelx.io) (24)
+https://cdn.intelx.io/favicon/apple-touch-icon.png
+https://cdn.intelx.io/favicon/favicon-32x32.png
+https://cdn.intelx.io/favicon/favicon-16x16.png
+https://cdn.intelx.io/css/boot-all.min.css
+https://cdn.intelx.io/css/common1.css
+https://cdn.intelx.io/css/search.css
+https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.css
+https://cdn.intelx.io/js/libraries/jexcel/jexcel.min.js
+https://cdn.intelx.io/img/IntelligenceX.svg
+https://blog.intelx.io
+https://help.intelx.io
+https://cdn.intelx.io/img/loading.gif
+https://help.intelx.io/get-started/selector/
+https://help.intelx.io/faq/error/#-restricted-search-term
+https://intelx.io/?id=0bb64bdf-3ee1-4e70-8cb1-6aebc4d3f596
+https://intelx.io/?id=aaf94f58-820c-4497-bc33-5082784f1df4
+https://free.intelx.io/file/read?type=1&amp;systemid=0bb64bdf-3ee1-4e70-8cb1-6aebc4d3f596&amp;k=d9f34863-a90b-479f-abdc-53eccdebe183&amp;bucket=leaks.private.general
+https://free.intelx.io/
+https://cdn.intelx.io/
+https://cdn.intelx.io/js/common.min.js
+https://cdn.intelx.io/js/search.min.js
+https://cdn.intelx.io/js/daterange.js
+https://cdn.intelx.io/js/libraries/d3.min.js
+https://cdn.intelx.io/js/charts.js
+
+  Out-of-Scope URLs (5)
+https://phonebook.cz
+https://twitter.com/Info_IntelX
+https://t.me/intelxio
+https://www.linkedin.com/company/intelxio
+https://www.statcounter.com/counter/counter.js
